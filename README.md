@@ -248,7 +248,8 @@ Run the Spring Boot application.
 
 Open Postman (or a similar API client).
 //post
-<img width="1421" height="743" alt="image" src="https://github.com/user-attachments/assets/28bfe52b-2d5c-4e12-a766-b187dcebc2d5" />
+<img width="1429" height="675" alt="image" src="https://github.com/user-attachments/assets/4c26cbed-2c6d-40df-850d-70b6f7e7a354" />
+
 //GET
 <img width="1585" height="902" alt="image" src="https://github.com/user-attachments/assets/1f0f4896-76bf-4d6c-8984-b4bdcd3f3c79" />
 //PUT
